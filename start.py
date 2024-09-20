@@ -5,9 +5,5 @@
 # License: MIT
 
 
-import uvicorn
-
-from api import api
-
-if __name__ == "__main__":
-    uvicorn.run(api, host="0.0.0.0", port=5000, log_level="info")
+# This api's source is fully private, although you may use it for your own projects.
+# You can suggest new features or report bugs by creating an issue on the github repository.
